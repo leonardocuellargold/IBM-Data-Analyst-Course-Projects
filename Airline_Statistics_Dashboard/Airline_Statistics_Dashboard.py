@@ -1,8 +1,8 @@
 # Import required libraries
 import pandas as pd
 import dash
-import dash_html_components as html
-import dash_core_components as dcc
+from dash import html
+from dash import dcc
 from dash.dependencies import Input, Output, State
 import plotly.graph_objects as go
 import plotly.express as px
@@ -219,4 +219,4 @@ def get_graph(chart, year, children1, children2, c3, c4, c5):
 
 # Run the app
 if __name__ == '__main__':
-    app.run_server()
+    app.run_server(host='127.0.0.1', port=8050)

@@ -19,6 +19,11 @@ This project is a dashboard application built with Plotly Dash that displays var
   - Average security delay time by airline
   - Average late aircraft delay time by airline
 
+## Images
+![Dashboard Screenshot](Images/Domestic_Flight Delay_SS1.png)
+![Dashboard Screenshot](Images/Domestic_Flight Delay_SS2.png)
+![Dashboard Screenshot](Images/Domestic_Flight Performance_SS1.png)
+![Dashboard Screenshot](Images/Domestic_Flight Performance_SS2.png)
 
 ## Data Source
 

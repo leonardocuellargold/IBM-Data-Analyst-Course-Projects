@@ -34,4 +34,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) f
 
 ## Contact
 
-For any questions or inquiries, please contact me at [your-email@example.com](mailto:main@leonardo-gold.com).
+For any questions or inquiries, please contact me at [main@leonardo-gold.com](mailto:main@leonardo-gold.com).

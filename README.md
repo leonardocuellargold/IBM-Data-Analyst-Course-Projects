@@ -34,7 +34,7 @@ All of these projects were completed during my IBM Data Analyst Professional Cer
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Contact
 
